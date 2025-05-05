@@ -1,0 +1,20 @@
+body {
+    font-family:MATURA MT;
+    background-image: linear-gradient(antiquewhite,red);
+}
+h1 {
+  box-shadow: 5px 5px 3px rgb(255, 196, 0), 10px 10px 3px  yellow;  
+  background-image: linear-gradient(red,orange,rgb(249, 252, 38));
+
+}
+ul {
+  color: royalblue ;
+   background-color: antiquewhite;
+   
+}
+a {
+  ;
+  font-size: 30px;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+}
